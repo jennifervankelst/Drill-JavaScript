@@ -43,6 +43,7 @@ let score = prompt("Rentrez votre score");
 
 
 
+
 //Exercice 3
 
 
