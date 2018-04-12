@@ -52,6 +52,7 @@ let mot = prompt("Rentrez votre mot");
 let nombre = prompt("Rentrez votre nombre");
     console.log(nombre)
 
+
     if(nombre > 1)
     console.log(mot+"s")
 
