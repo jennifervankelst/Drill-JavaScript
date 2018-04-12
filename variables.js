@@ -38,3 +38,4 @@ let consommation = 2;
 let result = consommation * 365 * agemax; 
 
 console.log("il vous reste", result,"de", alimentaire,"avant d'atteindre l'age de", agemax,"ans");
+
