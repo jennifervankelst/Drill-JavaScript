@@ -11,7 +11,7 @@ let incrementation = 0;
 //Création fonction
 function prix () {
 
-    //Encadrer pour insèrer d'un chiffre
+    //Encadrer pour insèrer un chiffre
     //Mettre le prompt dans la fonction pour faire plusieurs tentatives
     let inserer = prompt("Vous devez insérer un chiffre entre 20 et 80");
 
