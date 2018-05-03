@@ -44,3 +44,6 @@ function prix () {
 
 //Appel de la fonction
 prix ();
+
+
+
